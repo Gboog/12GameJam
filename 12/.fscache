@@ -1,0 +1,20 @@
+::res://::1445751063
+Bullet.gd::GDScript::1445749953::
+CharacterController.gd::GDScript::1445751063::
+Main.scn::PackedScene::1445751057::
+MovePlayer.gd::GDScript::1445751063::
+icon.png::ImageTexture::1445657187::
+p1_bullet.png::ImageTexture::1445744045::
+p1_fall.png::ImageTexture::1445741580::
+p1_idle 1.png::ImageTexture::1445675049::
+p1_idle 2.png::ImageTexture::1445675049::
+p1_jump1.png::ImageTexture::1445741330::
+p1_running 1.png::ImageTexture::1445660822::
+p1_running 2.png::ImageTexture::1445660822::
+p1_running 3.png::ImageTexture::1445660822::
+p1_running 4.png::ImageTexture::1445660822::
+p1_shooting 1.png::ImageTexture::1445675002::
+p1_shooting 2.png::ImageTexture::1445675002::
+p1bullet.scn::PackedScene::1445749953::
+shoot.gd::GDScript::1445751063::
+testbox.png::ImageTexture::1445732109::
